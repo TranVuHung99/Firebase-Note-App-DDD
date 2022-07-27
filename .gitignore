@@ -15,6 +15,7 @@
 *.iws
 .idea/
 
+*.g.dart
 *.freezed.dart
 
 # The .vscode folder contains launch configuration and tasks you configure in
